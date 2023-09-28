@@ -1,5 +1,3 @@
-
-
 import pygame
 pygame.init()#initializes Pygame
 pygame.display.set_caption("python piano program")#sets the window title
